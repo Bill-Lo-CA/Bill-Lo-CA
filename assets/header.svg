@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="372" viewBox="0 0 900 372" role="img" aria-label="Bill Lo — Software Engineering, Applied AI, Security Operations. Building defensible software, local AI tools, and security workflows. Open to SOC Analyst, Software Engineer, and AI / Automation roles; Kanata, Ontario, open to relocation across Canada.">
+  <title>Bill Lo — Software Engineering, Applied AI, Security Operations. Building defensible software, local AI tools, and security workflows. Open to SOC Analyst, Software Engineer, and AI / Automation roles; Kanata, Ontario, open to relocation across Canada.</title>
+  <style>
+    .mono { font-family: 'Cascadia Code','JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace; }
+    .sans { font-family: Inter,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Arial,sans-serif; }
+    .cursor { animation: blink 1.1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .cursor { animation: none; } }
+  </style>
+<defs><filter id="h1glow" x="-5%" y="-30%" width="110%" height="160%">
+    <feGaussianBlur stdDeviation="7" result="b"/>
+    <feColorMatrix in="b" type="matrix" values="0 0 0 0 0.22  0 0 0 0 1  0 0 0 0 0.53  0 0 0 0.35 0" result="g"/>
+    <feMerge><feMergeNode in="g"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter></defs>
+<defs>
+    <linearGradient id="bg-hdr" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#03110a"/><stop offset="1" stop-color="#010604"/>
+    </linearGradient>
+    <radialGradient id="glow-g-hdr" cx="0.12" cy="0" r="0.55">
+      <stop offset="0" stop-color="#39ff88" stop-opacity="0.14"/><stop offset="1" stop-color="#39ff88" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow-c-hdr" cx="0.92" cy="0.05" r="0.45">
+      <stop offset="0" stop-color="#00d9ff" stop-opacity="0.10"/><stop offset="1" stop-color="#00d9ff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid-hdr" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" fill="none" stroke="#39ff88" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+    <pattern id="scan-hdr" width="5" height="5" patternUnits="userSpaceOnUse">
+      <rect width="5" height="1" fill="#ffffff" fill-opacity="0.012"/>
+    </pattern>
+    <clipPath id="clip-hdr"><rect x="1" y="1" width="898" height="370" rx="18"/></clipPath>
+  </defs>
+<g clip-path="url(#clip-hdr)">
+    <rect width="900" height="372" fill="url(#bg-hdr)"/>
+    <rect width="900" height="372" fill="url(#glow-g-hdr)"/>
+    <rect width="900" height="372" fill="url(#glow-c-hdr)"/>
+    <rect width="900" height="372" fill="url(#grid-hdr)"/>
+    <rect width="900" height="372" fill="url(#scan-hdr)"/>
+  </g>
+  <rect x="1" y="1" width="898" height="370" rx="18" fill="none" stroke="#39ff88" stroke-opacity="0.3"/>
+<g clip-path="url(#clip-hdr)">
+    <rect x="0" y="0" width="900" height="36" fill="#39ff88" fill-opacity="0.08"/>
+    <line x1="0" y1="36" x2="900" y2="36" stroke="#39ff88" stroke-opacity="0.18"/>
+  </g>
+  <text class="mono" x="18" y="23" font-size="12.5"><tspan fill="#8baa95">● ● ● </tspan><tspan fill="#39ff88">terminal://bill-lo-ca/github</tspan></text>
+  <rect x="36" y="58" width="464.7" height="30" rx="15" fill="#39ff88" fill-opacity="0.09" stroke="#39ff88" stroke-opacity="0.22"/>
+  <text class="mono" x="50" y="77.5" font-size="12" letter-spacing="0.5" fill="#39ff88" data-max="500.7">SOFTWARE ENGINEERING · APPLIED AI · SECURITY OPERATIONS</text>
+  <g filter="url(#h1glow)">
+    <text class="mono" x="36" y="136" font-size="30" font-weight="700" letter-spacing="-1" fill="#e9fff2" data-max="864">Building defensible software,</text>
+    <text class="mono" x="36" y="176" font-size="30" font-weight="700" letter-spacing="-1" fill="#e9fff2" data-max="864">local AI tools, and security workflows.</text>
+  </g>
+  <text class="sans" x="36" y="216" font-size="15.5" fill="#c9e6d3" data-max="864">I’m Bill Lo, a software engineer with 4+ years of experience building enterprise</text>
+  <text class="sans" x="36" y="240" font-size="15.5" fill="#c9e6d3" data-max="864">applications and APIs. My current work combines production engineering, local AI</text>
+  <text class="sans" x="36" y="264" font-size="15.5" fill="#c9e6d3" data-max="864">systems, browser tooling, and hands-on security investigation.</text>
+  <line x1="36" y1="290" x2="864" y2="290" stroke="#39ff88" stroke-opacity="0.14"/>
+  <text class="mono" x="36" y="316" font-size="13" data-max="864"><tspan fill="#00d9ff">status: </tspan><tspan fill="#39ff88">open to SOC Analyst, Software Engineer, and AI / Automation roles</tspan></text>
+  <text class="mono" x="36" y="342" font-size="13" data-max="864"><tspan fill="#00d9ff">location: </tspan><tspan fill="#c9e6d3">Kanata, Ontario · open to relocation across Canada</tspan><tspan class="cursor" fill="#39ff88"> █</tspan></text>
+</svg>

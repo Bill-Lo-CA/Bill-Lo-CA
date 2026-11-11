@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="304" viewBox="0 0 900 304" role="img" aria-label="Skills matrix. Software Engineering: C#, ASP.NET/.NET, React, JavaScript, Python, FastAPI, REST APIs, JSON/XML integration, SQL, production debugging, automated testing. Applied AI: Ollama, Gemini, structured generation, provider abstraction, local LLM workflows, whisper.cpp, ASR fallback design, NLP pipelines, validation gates. Security Operations: Alert triage, Windows/Linux log analysis, timeline reconstruction, detection validation, incident documentation, SIEM investigation workflows. Systems &amp; Delivery: Linux, Windows Server, Git/GitHub, uv, pnpm, deployment configuration, environment management, local services, API integration, technical documentation.">
+  <title>Skills matrix. Software Engineering: C#, ASP.NET/.NET, React, JavaScript, Python, FastAPI, REST APIs, JSON/XML integration, SQL, production debugging, automated testing. Applied AI: Ollama, Gemini, structured generation, provider abstraction, local LLM workflows, whisper.cpp, ASR fallback design, NLP pipelines, validation gates. Security Operations: Alert triage, Windows/Linux log analysis, timeline reconstruction, detection validation, incident documentation, SIEM investigation workflows. Systems &amp; Delivery: Linux, Windows Server, Git/GitHub, uv, pnpm, deployment configuration, environment management, local services, API integration, technical documentation.</title>
+  <style>
+    .mono { font-family: 'Cascadia Code','JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace; }
+    .sans { font-family: Inter,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Arial,sans-serif; }
+  </style>
+<g transform="translate(0.0,0)">
+  <defs>
+    <linearGradient id="bg-sk0" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#03110a"/><stop offset="1" stop-color="#010604"/></linearGradient>
+    <pattern id="grid-sk0" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#39ff88" stroke-opacity="0.045"/></pattern>
+  </defs>
+  <rect x="1" y="1" width="440.0" height="142" rx="18" fill="url(#bg-sk0)"/>
+  <rect x="1" y="1" width="440.0" height="142" rx="18" fill="url(#grid-sk0)"/>
+  <rect x="1" y="1" width="440.0" height="142" rx="18" fill="none" stroke="#39ff88" stroke-opacity="0.3"/>
+  <text class="mono" x="22" y="40" font-size="15.5" font-weight="700" data-max="422.0"><tspan fill="#39ff88"># </tspan><tspan fill="#e9fff2">Software Engineering</tspan></text>
+  <text class="sans" x="22" y="70" font-size="14" fill="#c9e6d3" data-max="422.0">C#, ASP.NET/.NET, React, JavaScript, Python, FastAPI,</text>
+  <text class="sans" x="22" y="92" font-size="14" fill="#c9e6d3" data-max="422.0">REST APIs, JSON/XML integration, SQL, production</text>
+  <text class="sans" x="22" y="114" font-size="14" fill="#c9e6d3" data-max="422.0">debugging, automated testing.</text>
+</g>
+<g transform="translate(458.0,0)">
+  <defs>
+    <linearGradient id="bg-sk1" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#03110a"/><stop offset="1" stop-color="#010604"/></linearGradient>
+    <pattern id="grid-sk1" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#39ff88" stroke-opacity="0.045"/></pattern>
+  </defs>
+  <rect x="1" y="1" width="440.0" height="142" rx="18" fill="url(#bg-sk1)"/>
+  <rect x="1" y="1" width="440.0" height="142" rx="18" fill="url(#grid-sk1)"/>
+  <rect x="1" y="1" width="440.0" height="142" rx="18" fill="none" stroke="#39ff88" stroke-opacity="0.3"/>
+  <text class="mono" x="22" y="40" font-size="15.5" font-weight="700" data-max="880.0"><tspan fill="#39ff88"># </tspan><tspan fill="#e9fff2">Applied AI</tspan></text>
+  <text class="sans" x="22" y="70" font-size="14" fill="#c9e6d3" data-max="880.0">Ollama, Gemini, structured generation, provider</text>
+  <text class="sans" x="22" y="92" font-size="14" fill="#c9e6d3" data-max="880.0">abstraction, local LLM workflows, whisper.cpp, ASR</text>
+  <text class="sans" x="22" y="114" font-size="14" fill="#c9e6d3" data-max="880.0">fallback design, NLP pipelines, validation gates.</text>
+</g>
+<g transform="translate(0.0,160)">
+  <defs>
+    <linearGradient id="bg-sk2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#03110a"/><stop offset="1" stop-color="#010604"/></linearGradient>
+    <pattern id="grid-sk2" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#39ff88" stroke-opacity="0.045"/></pattern>
+  </defs>
+  <rect x="1" y="1" width="440.0" height="142" rx="18" fill="url(#bg-sk2)"/>
+  <rect x="1" y="1" width="440.0" height="142" rx="18" fill="url(#grid-sk2)"/>
+  <rect x="1" y="1" width="440.0" height="142" rx="18" fill="none" stroke="#39ff88" stroke-opacity="0.3"/>
+  <text class="mono" x="22" y="40" font-size="15.5" font-weight="700" data-max="422.0"><tspan fill="#39ff88"># </tspan><tspan fill="#e9fff2">Security Operations</tspan></text>
+  <text class="sans" x="22" y="70" font-size="14" fill="#c9e6d3" data-max="422.0">Alert triage, Windows/Linux log analysis, timeline</text>
+  <text class="sans" x="22" y="92" font-size="14" fill="#c9e6d3" data-max="422.0">reconstruction, detection validation, incident</text>
+  <text class="sans" x="22" y="114" font-size="14" fill="#c9e6d3" data-max="422.0">documentation, SIEM investigation workflows.</text>
+</g>
+<g transform="translate(458.0,160)">
+  <defs>
+    <linearGradient id="bg-sk3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#03110a"/><stop offset="1" stop-color="#010604"/></linearGradient>
+    <pattern id="grid-sk3" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#39ff88" stroke-opacity="0.045"/></pattern>
+  </defs>
+  <rect x="1" y="1" width="440.0" height="142" rx="18" fill="url(#bg-sk3)"/>
+  <rect x="1" y="1" width="440.0" height="142" rx="18" fill="url(#grid-sk3)"/>
+  <rect x="1" y="1" width="440.0" height="142" rx="18" fill="none" stroke="#39ff88" stroke-opacity="0.3"/>
+  <text class="mono" x="22" y="40" font-size="15.5" font-weight="700" data-max="880.0"><tspan fill="#39ff88"># </tspan><tspan fill="#e9fff2">Systems &amp; Delivery</tspan></text>
+  <text class="sans" x="22" y="70" font-size="14" fill="#c9e6d3" data-max="880.0">Linux, Windows Server, Git/GitHub, uv, pnpm, deployment</text>
+  <text class="sans" x="22" y="92" font-size="14" fill="#c9e6d3" data-max="880.0">configuration, environment management, local services,</text>
+  <text class="sans" x="22" y="114" font-size="14" fill="#c9e6d3" data-max="880.0">API integration, technical documentation.</text>
+</g>
+</svg>
